@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - PlayerProjectile
+  - Enemy
+  - EnemyProjectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: inv
+    uniqueID: 3575005983
+    locked: 0
+  - name: bg
+    uniqueID: 1687619781
+    locked: 0
+  - name: sprites
+    uniqueID: 1099973471
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

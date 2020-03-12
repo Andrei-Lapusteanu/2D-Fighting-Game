@@ -1,0 +1,1315 @@
+fileFormatVersion: 2
+guid: 354aea508fd837d4c87d99c6ca67b909
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8911904032648238472
+    second: ken-sprite-sheet_0
+  - first:
+      213: 4425008807814841682
+    second: ken-sprite-sheet_1
+  - first:
+      213: -8348934433095404075
+    second: ken-sprite-sheet_2
+  - first:
+      213: 6424789692259578971
+    second: ken-sprite-sheet_3
+  - first:
+      213: 792883161392507472
+    second: ken-sprite-sheet_4
+  - first:
+      213: 1544411411810592043
+    second: ken-sprite-sheet_5
+  - first:
+      213: -1165001987162723524
+    second: ken-sprite-sheet_6
+  - first:
+      213: 55047642059047428
+    second: ken-sprite-sheet_7
+  - first:
+      213: -683537015504980371
+    second: ken-sprite-sheet_8
+  - first:
+      213: 5802511473748549918
+    second: ken-sprite-sheet_9
+  - first:
+      213: -7660721533832615677
+    second: ken-sprite-sheet_10
+  - first:
+      213: 2686206150469198871
+    second: ken-sprite-sheet_11
+  - first:
+      213: 4605835376486677111
+    second: ken-sprite-sheet_12
+  - first:
+      213: 4935423489302600576
+    second: ken-sprite-sheet_13
+  - first:
+      213: -5394580431958023659
+    second: ken-sprite-sheet_14
+  - first:
+      213: 8769888173080303898
+    second: ken-sprite-sheet_15
+  - first:
+      213: 7850451215169627329
+    second: ken-sprite-sheet_16
+  - first:
+      213: 4791442501420217937
+    second: ken-sprite-sheet_17
+  - first:
+      213: -2356544231697804128
+    second: ken-sprite-sheet_18
+  - first:
+      213: -5021191239357115953
+    second: ken-sprite-sheet_19
+  - first:
+      213: 1000083694105202226
+    second: ken-sprite-sheet_20
+  - first:
+      213: 5934948598830319500
+    second: ken-sprite-sheet_21
+  - first:
+      213: 6145753852231775273
+    second: ken-sprite-sheet_22
+  - first:
+      213: 3165500545756762845
+    second: ken-sprite-sheet_23
+  - first:
+      213: 4264348398392638860
+    second: ken-sprite-sheet_24
+  - first:
+      213: -6435677281729760720
+    second: ken-sprite-sheet_25
+  - first:
+      213: 910513435154838519
+    second: ken-sprite-sheet_26
+  - first:
+      213: -6117474874592063166
+    second: ken-sprite-sheet_27
+  - first:
+      213: 7322996378052136129
+    second: ken-sprite-sheet_28
+  - first:
+      213: 8540430128141593803
+    second: ken-sprite-sheet_29
+  - first:
+      213: 4689314713412063926
+    second: ken-sprite-sheet_30
+  - first:
+      213: 2364071960463395446
+    second: ken-sprite-sheet_31
+  - first:
+      213: -3350182869431664504
+    second: ken-sprite-sheet_32
+  - first:
+      213: -1400837931162552295
+    second: ken-sprite-sheet_33
+  - first:
+      213: 7455998260632770748
+    second: ken-sprite-sheet_34
+  - first:
+      213: -1962362374521832919
+    second: ken-sprite-sheet_35
+  - first:
+      213: 6755054482599576209
+    second: ken-sprite-sheet_36
+  - first:
+      213: -1162771412267506097
+    second: ken-sprite-sheet_37
+  - first:
+      213: -7444082643800012025
+    second: ken-sprite-sheet_38
+  - first:
+      213: -5428635767360111996
+    second: ken-sprite-sheet_39
+  - first:
+      213: 3835411331607767357
+    second: ken-sprite-sheet_40
+  - first:
+      213: -6849473617386567989
+    second: ken-sprite-sheet_41
+  - first:
+      213: 7305981426298508264
+    second: ken-sprite-sheet_42
+  - first:
+      213: -6430710058202196521
+    second: ken-sprite-sheet_43
+  - first:
+      213: -5342498622799572552
+    second: ken-sprite-sheet_44
+  - first:
+      213: 7987103039029641539
+    second: ken-sprite-sheet_45
+  - first:
+      213: -4846899741548397196
+    second: ken-sprite-sheet_46
+  - first:
+      213: 9076131108700499291
+    second: ken-sprite-sheet_47
+  - first:
+      213: 8376885336752031220
+    second: ken-sprite-sheet_48
+  - first:
+      213: 7650468183360750621
+    second: ken-sprite-sheet_49
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ken-sprite-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 909
+        width: 79
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fa6aef3a510fa4680313f8a1caf2b4
+      internalID: 8911904032648238472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 909
+        width: 79
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386f9c094cd31794fb1f96e12069e066
+      internalID: 4425008807814841682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 907
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816fc2fe07ce82b408b10c72f3a30e68
+      internalID: -8348934433095404075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 907
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37104da9b69fd8048a164d5e1f7a440d
+      internalID: 6424789692259578971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 903
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48972f1f61ce9a40a6f69b630300769
+      internalID: 792883161392507472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 903
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d18916042b6c2047aa6625c1cf4d0f8
+      internalID: 1544411411810592043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 904
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31295d0cbe82f7347a614577ce9dbe88
+      internalID: -1165001987162723524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 905
+        width: 79
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c0de266565a9142ae385e013733057
+      internalID: 55047642059047428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 906
+        width: 79
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d1abd3ebc8cf9409cac3f0de9dfb05
+      internalID: -683537015504980371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 906
+        width: 79
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5da81aff0f0154ab67b9db20ebd001
+      internalID: 5802511473748549918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 780
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34541ed47ca5714fb2c408efa0d3569
+      internalID: -7660721533832615677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 777
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6260c4c8dffd348967b92cb432a655
+      internalID: 2686206150469198871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 779
+        width: 75
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fbe496a139dcb459dffcd2b064f0c3
+      internalID: 4605835376486677111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 778
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfc5b375a8ac0046854e02169b4b828
+      internalID: 4935423489302600576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 777
+        width: 68
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d04bb41e805694982db1d81680c9e9
+      internalID: -5394580431958023659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 772
+        width: 61
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50b8ae7185c2ae4b8f2ca9a67482ce5
+      internalID: 8769888173080303898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 773
+        width: 64
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51eaf955f2298944dac2da2f1fe24194
+      internalID: 7850451215169627329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 775
+        width: 82
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3891024876265a3498b60e1bb84efc33
+      internalID: 4791442501420217937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 776
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf202e505b2d848b910990bbdbf753
+      internalID: -2356544231697804128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 775
+        width: 93
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fead5a02b88a724389b837de345d479
+      internalID: -5021191239357115953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 773
+        width: 93
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8951915725ca75642865d84993206bc5
+      internalID: 1000083694105202226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 634
+        width: 99
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d5028e7c80a214ea35f7f40cce63d7
+      internalID: 5934948598830319500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 634
+        width: 108
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72a2a900df1c92419adac6ce20b9ccf
+      internalID: 6145753852231775273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 633
+        width: 109
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb536121c31b2d469cdbad8ae4d9a45
+      internalID: 3165500545756762845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 636
+        width: 136
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490f52bfb61cf4540a421a353a858949
+      internalID: 4264348398392638860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 637
+        width: 137
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ba006aecf234e4088bea4b3fe2de79
+      internalID: -6435677281729760720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 639
+        width: 133
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4bf19d1d926ad4e8bb9f3e9039c04d
+      internalID: 910513435154838519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 637
+        width: 125
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730f80c7087bb244b8b232df928df8b8
+      internalID: -6117474874592063166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 516
+        width: 125
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c279e9c6d2da3364097f1cc3c15ca15f
+      internalID: 7322996378052136129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 518
+        width: 125
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2293fdef1b82a0a49838e8d60c552c14
+      internalID: 8540430128141593803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 520
+        width: 125
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21235517fa144e488c9f3e37df12c6c
+      internalID: 4689314713412063926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 517
+        width: 106
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bb2459d319fcd43b8e0c2c0d7e42e1
+      internalID: 2364071960463395446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 391
+        width: 78
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86602b8e6ffe20c4e8941ab6d1a36742
+      internalID: -3350182869431664504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 392
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c605d3f44683a8a43a7aeb124733e54e
+      internalID: -1400837931162552295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 388
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb41236c3f76094198e1544514098e6
+      internalID: 7455998260632770748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 386
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d27e30c1d2853b4b8810319ab1fe09d
+      internalID: -1962362374521832919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 382
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95098daa872094e45ae2b86b8703b653
+      internalID: 6755054482599576209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 381
+        width: 88
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e79da8265834664cb86f1f3d50f0fda
+      internalID: -1162771412267506097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 236
+        width: 74
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7e809cf986b33498808149ef54ed7f
+      internalID: -7444082643800012025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 238
+        width: 74
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29bd44cfe4c748043935ba37b749bbd4
+      internalID: -5428635767360111996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 241
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25b3de9552041b4aa5106b6f20948d5
+      internalID: 3835411331607767357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 248
+        width: 68
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eae395680d43c94faa23d3b9bd9a57c
+      internalID: -6849473617386567989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 256
+        width: 73
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128df12153ad26341ba93f49c583f091
+      internalID: 7305981426298508264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 252
+        width: 72
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b959a9e80f043478a003650a47216d
+      internalID: -6430710058202196521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 250
+        width: 71
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3149410acda0f1c4a9cb9dcdaa8c7da8
+      internalID: -5342498622799572552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 237
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df89a10e8c2b46499ba2f17778832dd
+      internalID: 7987103039029641539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 228
+        width: 70
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb95b8c56ad0054cabd0fa6352b5049
+      internalID: -4846899741548397196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 227
+        width: 70
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd61ca9606b2f084e8ebe12d289a3596
+      internalID: 9076131108700499291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 224
+        width: 71
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d5963872b483944b74d68ba8b3ef52
+      internalID: 8376885336752031220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ken-sprite-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 384
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76749ca942e71448b6e58ac28555467
+      internalID: 7650468183360750621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
