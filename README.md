@@ -11,10 +11,9 @@
 - Developed using **Unity** in **C#**
 - Game assets used are from the Unity asset store or provided by our teacher
 
-
 # Functionality
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjA4NTIyNzAsLTU0MDUyNzc2NF19
+eyJoaXN0b3J5IjpbMjE0MDMyNTE4NCwtNTQwNTI3NzY0XX0=
 -->
