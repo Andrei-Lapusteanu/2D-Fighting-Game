@@ -13,8 +13,11 @@
 
 # Functionality
 
+- - Street figher style 2D game in which you have to protect yourself from attacks and eliminate the enemies
+- Move **left** and **right** using keys **A** and D
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODc1MjYyNTEsMjE0MDMyNTE4NCwtNT
-QwNTI3NzY0XX0=
+eyJoaXN0b3J5IjpbMzY5MjU0MDczLDIxNDAzMjUxODQsLTU0MD
+UyNzc2NF19
 -->
