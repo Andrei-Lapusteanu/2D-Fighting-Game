@@ -4,7 +4,7 @@
 
  Simple 2D fighting game implemented in Unity for a school assignment
  
-<a href="https://imgur.com/ml1MLDe"><img src="https://i.imgur.com/BAwj9OE.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/Xpttqw3"><img src="https://i.imgur.com/Xpttqw3.gif" title="source: imgur.com" /></a>
 
 # Technologies
 
@@ -15,5 +15,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDMyNTE4NCwtNTQwNTI3NzY0XX0=
+eyJoaXN0b3J5IjpbLTE4ODc1MjYyNTEsMjE0MDMyNTE4NCwtNT
+QwNTI3NzY0XX0=
 -->
