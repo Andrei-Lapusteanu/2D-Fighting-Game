@@ -13,11 +13,15 @@
 
 # Functionality
 
-- - Street figher style 2D game in which you have to protect yourself from attacks and eliminate the enemies
-- Move **left** and **right** using keys **A** and D
+- Street figher style 2D game in which you have to protect yourself from attacks and eliminate the enemies
+- Move **left** and **right** using keys **A** and **D**
+- Jump with the **W** key
+- Duck with **S** key
+- Launch fireball using **Space**
 
-
+## Note
+As of now, functionalities are limited, no reset, movement limits or death imp
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzY5MjU0MDczLDIxNDAzMjUxODQsLTU0MD
-UyNzc2NF19
+eyJoaXN0b3J5IjpbMTU0NjM0OTc4OSwyMTQwMzI1MTg0LC01ND
+A1Mjc3NjRdfQ==
 -->
