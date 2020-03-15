@@ -20,8 +20,8 @@
 - Launch fireball using **Space**
 
 ## Note
-As of now, functionalities are limited, no reset, movement limits or death imp
+As of now, functionalities are limited, no reset, movement limits or death systems implemented
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NjM0OTc4OSwyMTQwMzI1MTg0LC01ND
+eyJoaXN0b3J5IjpbLTEyNTU2NDk1NywyMTQwMzI1MTg0LC01ND
 A1Mjc3NjRdfQ==
 -->
